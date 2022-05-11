@@ -111,7 +111,7 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     background-attachment: fixed;
     position: relative;
     z-index: 4;
-    margin-top: 48px;
+    margin-top: 50px;
 }
 .banner-section::before{
     content: "";
